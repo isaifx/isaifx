@@ -1,8 +1,8 @@
 ## <h1 align="center">Hello, Welcome to my GitHub.<img src="https://cdn.discordapp.com/attachments/923878030710030356/1133359669495218297/WAVE_transparent.gif" width="100" height="100"> </h1> 
-- I’m Abd, a Student, Developer, Learner and Graphic Designer.
-- I’m interested in Web & App Development.
-- I’m currently learning Flutter, React Native & Python.
-- I’m currently working on something cool. 
+- I’m Saif, a Student, Developer, Learner and Graphic Designer, Cybersecurity Enthusiast, Information Security Enthusiast.
+- I’m interested in CyberSecurity, Exploit Development, Low Level Exploitation, Penetration Testings.
+- Just an Average Student.
+- I’m currently working on something bigger. 
 <!--   <br>
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/730410306970320916/765613934538784809/1_V4cV-UpcOn5sJ3hB75vdvA.gif" width="500" height="320" />
 <br> •    -->
@@ -19,12 +19,12 @@
  
 ## ・GitHub Stats:
 ![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=imabdr&show_icons=true&theme=default)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imabdr&layout=compact)
-<!--   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imabdr&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860) •    -->
-<!--   ![Abd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imabdr) •    -->
+<!--   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaifx&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860) •    -->
+<!--   ![Saif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaifx) •    -->
 
 <!--   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/e88d7fa97a84fc05c8247ac8e1b48af5ee8a6a9b/github-contribution-grid-snake.svg" alt="snake"> •    -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imabdr&label=Profile%20views&color=0e75b6&style=flat" alt="imabdr" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaifx&label=Profile%20views&color=0e75b6&style=flat" alt="isaifx" /> </p> 
 
 
 
