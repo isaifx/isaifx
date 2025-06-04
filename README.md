@@ -17,17 +17,4 @@
 
 
  
-## ・GitHub Stats:
-![Abd's GitHub stats](https://github-readme-stats.vercel.app/api?username=imabdr&show_icons=true&theme=default)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imabdr&layout=compact)
-<!--   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaifx&theme=buefy&fire=FF3860&currStreakLabel=000000&sideLabels=000000&dates=000000&sideNums=FF3860) •    -->
-<!--   ![Saif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaifx) •    -->
 
-<!--   <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/e88d7fa97a84fc05c8247ac8e1b48af5ee8a6a9b/github-contribution-grid-snake.svg" alt="snake"> •    -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaifx&label=Profile%20views&color=0e75b6&style=flat" alt="isaifx" /> </p> 
-
-
-
-
-<!--   <img alt="Discord" src="https://img.shields.io/discord/730071265469136997?color=%235865F2&label=Join%20Community&logo=Discord&logoColor=%237289d9">
-<img alt="Discord" src="https://img.shields.io/discord/730071265469136997?color=%235865F2&label=Join%20Community&logo=Discord"> •    -->
